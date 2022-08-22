@@ -27,7 +27,7 @@ public class reverse2 {
 		{
 			s3=s3+a[j]+ " ";
 	    }
-		System.out.println(s3);
+		System.out.println(s3.toLowerCase());
 	   
 }
 }
